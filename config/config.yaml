@@ -1,0 +1,20 @@
+# Runtime parameters loaded separately from the static agent manifest.
+
+max_retry: 3
+timeout_seconds: 30
+
+# HITL requires memory so interrupt/resume can use a checkpointer.
+memory_enabled: true
+hitl:
+  enabled: true
+  max_hitl: 8
+
+# Domain configuration
+tenant_id: "default"
+market_source_url: "https://api.tokyo-tourism.example/opendata"
+
+# Sample seed data (NOT production data). Blank these paths and point
+# TOUR_KB_DB_PATH at the customer's populated DB for production.
+sample_data:
+  past_tours_path: "config/past_tours.sample.json"
+  suppliers_path: "config/suppliers.sample.json"

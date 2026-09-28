@@ -1,0 +1,12 @@
+[
+  {"supplier_id":"SAMPLE-S001","tenant_id":"default","supplier_name":"箱根みらい旅館（サンプル）","category":"宿泊","area":"箱根","contact":"sample-yado@example.invalid","standard_terms":"サンプル条件：予約14日前まで仮押さえ","lead_time_days":14},
+  {"supplier_id":"SAMPLE-S002","tenant_id":"default","supplier_name":"湯けむりホテル企画（サンプル）","category":"宿泊","area":"箱根","contact":"sample-hotel@example.invalid","standard_terms":"サンプル条件：団体料金は都度見積","lead_time_days":21},
+  {"supplier_id":"SAMPLE-S003","tenant_id":"default","supplier_name":"箱根周遊交通（サンプル）","category":"交通","area":"箱根","contact":"sample-bus@example.invalid","standard_terms":"サンプル条件：配車7日前確定","lead_time_days":7},
+  {"supplier_id":"SAMPLE-S004","tenant_id":"default","supplier_name":"地域観光モビリティ（サンプル）","category":"交通","area":"神奈川","contact":"sample-mobility@example.invalid","standard_terms":"サンプル条件：行程確定後に車両手配","lead_time_days":10},
+  {"supplier_id":"SAMPLE-S005","tenant_id":"default","supplier_name":"森の案内人ネット（サンプル）","category":"体験","area":"箱根","contact":"sample-guide@example.invalid","standard_terms":"サンプル条件：雨天時は屋内代替","lead_time_days":10},
+  {"supplier_id":"SAMPLE-S006","tenant_id":"default","supplier_name":"伝統工芸ワークショップ（サンプル）","category":"体験","area":"神奈川","contact":"sample-craft@example.invalid","standard_terms":"サンプル条件：材料数を5日前確定","lead_time_days":5},
+  {"supplier_id":"SAMPLE-S007","tenant_id":"default","supplier_name":"山海旬彩堂（サンプル）","category":"飲食","area":"箱根","contact":"sample-food@example.invalid","standard_terms":"サンプル条件：食数を3日前確定","lead_time_days":3},
+  {"supplier_id":"SAMPLE-S008","tenant_id":"default","supplier_name":"旅の弁当工房（サンプル）","category":"飲食","area":"小田原","contact":"sample-bento@example.invalid","standard_terms":"サンプル条件：アレルギー情報を7日前共有","lead_time_days":7},
+  {"supplier_id":"SAMPLE-S009","tenant_id":"default","supplier_name":"地域通訳サポート（サンプル）","category":"通訳","area":"関東","contact":"sample-interpreter@example.invalid","standard_terms":"サンプル条件：言語と日程を14日前確定","lead_time_days":14},
+  {"supplier_id":"SAMPLE-S010","tenant_id":"default","supplier_name":"旅程印刷スタジオ（サンプル）","category":"印刷","area":"東京","contact":"sample-print@example.invalid","standard_terms":"サンプル条件：校了後5営業日で納品","lead_time_days":5}
+]

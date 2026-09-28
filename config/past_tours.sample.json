@@ -1,0 +1,22 @@
+[
+  {"tour_id":"SAMPLE-T001","tenant_id":"default","tour_name":"箱根湯めぐり二日間（サンプル）","period":"2025-autumn","theme":"温泉","area":"箱根","price_band":"80k-120k","units_sold":42,"gross_margin":0.31,"rating":4.7},
+  {"tour_id":"SAMPLE-T002","tenant_id":"default","tour_name":"箱根美術館と温泉三日間（サンプル）","period":"2025-winter","theme":"温泉","area":"箱根","price_band":"120k-160k","units_sold":35,"gross_margin":0.29,"rating":4.5},
+  {"tour_id":"SAMPLE-T003","tenant_id":"default","tour_name":"箱根家族温泉休日（サンプル）","period":"2026-spring","theme":"温泉","area":"箱根","price_band":"60k-90k","units_sold":51,"gross_margin":0.27,"rating":4.4},
+  {"tour_id":"SAMPLE-T004","tenant_id":"default","tour_name":"草津名湯散策（サンプル）","period":"2025-winter","theme":"温泉","area":"草津","price_band":"70k-100k","units_sold":38,"gross_margin":0.3,"rating":4.6},
+  {"tour_id":"SAMPLE-T005","tenant_id":"default","tour_name":"別府地獄めぐりと湯治（サンプル）","period":"2025-autumn","theme":"温泉","area":"別府","price_band":"100k-140k","units_sold":29,"gross_margin":0.26,"rating":4.3},
+  {"tour_id":"SAMPLE-T006","tenant_id":"default","tour_name":"金沢伝統菓子探訪（サンプル）","period":"2025-autumn","theme":"食","area":"金沢","price_band":"90k-130k","units_sold":33,"gross_margin":0.28,"rating":4.5},
+  {"tour_id":"SAMPLE-T007","tenant_id":"default","tour_name":"瀬戸内旬魚紀行（サンプル）","period":"2026-spring","theme":"食","area":"瀬戸内","price_band":"110k-150k","units_sold":24,"gross_margin":0.32,"rating":4.6},
+  {"tour_id":"SAMPLE-T008","tenant_id":"default","tour_name":"京都発酵文化の旅（サンプル）","period":"2025-winter","theme":"食","area":"京都","price_band":"100k-140k","units_sold":31,"gross_margin":0.3,"rating":4.4},
+  {"tour_id":"SAMPLE-T009","tenant_id":"default","tour_name":"会津城下町歴史散歩（サンプル）","period":"2025-autumn","theme":"歴史","area":"会津","price_band":"70k-100k","units_sold":27,"gross_margin":0.25,"rating":4.2},
+  {"tour_id":"SAMPLE-T010","tenant_id":"default","tour_name":"奈良古寺文化紀行（サンプル）","period":"2026-spring","theme":"歴史","area":"奈良","price_band":"80k-110k","units_sold":40,"gross_margin":0.29,"rating":4.6},
+  {"tour_id":"SAMPLE-T011","tenant_id":"default","tour_name":"萩城下町と工芸（サンプル）","period":"2025-summer","theme":"歴史","area":"萩","price_band":"100k-140k","units_sold":19,"gross_margin":0.24,"rating":4.1},
+  {"tour_id":"SAMPLE-T012","tenant_id":"default","tour_name":"上高地ネイチャーウォーク（サンプル）","period":"2025-summer","theme":"自然","area":"上高地","price_band":"80k-120k","units_sold":46,"gross_margin":0.3,"rating":4.7},
+  {"tour_id":"SAMPLE-T013","tenant_id":"default","tour_name":"屋久島森林体験（サンプル）","period":"2026-spring","theme":"自然","area":"屋久島","price_band":"140k-190k","units_sold":21,"gross_margin":0.27,"rating":4.8},
+  {"tour_id":"SAMPLE-T014","tenant_id":"default","tour_name":"釧路湿原観察会（サンプル）","period":"2025-summer","theme":"自然","area":"釧路","price_band":"120k-170k","units_sold":25,"gross_margin":0.26,"rating":4.5},
+  {"tour_id":"SAMPLE-T015","tenant_id":"default","tour_name":"益子陶芸体験（サンプル）","period":"2025-autumn","theme":"工芸","area":"益子","price_band":"50k-80k","units_sold":36,"gross_margin":0.33,"rating":4.3},
+  {"tour_id":"SAMPLE-T016","tenant_id":"default","tour_name":"輪島漆芸工房めぐり（サンプル）","period":"2026-spring","theme":"工芸","area":"輪島","price_band":"90k-130k","units_sold":18,"gross_margin":0.25,"rating":4.4},
+  {"tour_id":"SAMPLE-T017","tenant_id":"default","tour_name":"尾道しまなみサイクリング（サンプル）","period":"2025-spring","theme":"体験","area":"尾道","price_band":"70k-110k","units_sold":44,"gross_margin":0.31,"rating":4.6},
+  {"tour_id":"SAMPLE-T018","tenant_id":"default","tour_name":"信州農園収穫体験（サンプル）","period":"2025-autumn","theme":"体験","area":"信州","price_band":"60k-90k","units_sold":39,"gross_margin":0.28,"rating":4.3},
+  {"tour_id":"SAMPLE-T019","tenant_id":"default","tour_name":"横浜近代建築散策（サンプル）","period":"2025-winter","theme":"街歩き","area":"横浜","price_band":"40k-70k","units_sold":48,"gross_margin":0.34,"rating":4.2},
+  {"tour_id":"SAMPLE-T020","tenant_id":"default","tour_name":"伊豆海岸ウェルネス滞在（サンプル）","period":"2026-spring","theme":"ウェルネス","area":"伊豆","price_band":"100k-150k","units_sold":30,"gross_margin":0.29,"rating":4.5}
+]

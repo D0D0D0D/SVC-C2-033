@@ -1,0 +1,29 @@
+# Agent Manifest — AgentRegistry entry point
+# AgentRegistry reads these discovery fields at the root level.
+
+id: "SVC-C2-033"
+name: "TourPlanningProcurementRoutingAgent"
+namespace: "svc"
+version: "1.0.0"
+enabled: true
+category: "Cat 2"
+generation_mode: "llm"
+industry: "SVC"
+
+# Opaque compatibility metadata.
+base_type: "DocGenerationAgent"
+
+# Entry point — single dotted import path (module.Class).
+class: "src.graph.graph.Graph"
+
+# Security
+required_trust_level: "VERIFIED_EXTERNAL"
+
+# Compile-time requirements used by AgentRegistry.
+requires:
+  secrets:
+    - AZURE_OPENAI_API_KEY
+    - AZURE_OPENAI_ENDPOINT
+    - AZURE_OPENAI_DEPLOYMENT
+    - TOUR_KB_DB_PATH
+  extras: []
